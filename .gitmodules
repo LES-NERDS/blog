@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "content/Insomni-hack-2024"]
+	path = content/Insomni-hack-2024
+	url = https://github.com/LES-NERDS/Insomni-hack-2024-writeups.git
